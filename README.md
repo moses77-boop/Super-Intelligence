@@ -1,2 +1,2 @@
 # Super-Intelligence
-Project X
+All about A.I.
